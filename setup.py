@@ -1,0 +1,3 @@
+pillow
+lark
+pydot
